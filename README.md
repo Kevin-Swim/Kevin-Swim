@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevin-swim&label=Profile%20views&color=0e75b6&style=flat" alt="kevin-swim" /> </p>
 
-- 🔭 I’m currently working on **CDSApi**
+- 🔭 I’m currently working on an API for a personal project of mine.
 
 - 🌱 I’m currently learning **about Minimal APIs and APIs in general**
 
